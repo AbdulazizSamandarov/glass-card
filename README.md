@@ -1,2 +1,1 @@
-# glass-card
-this is glass card
+https://abdulazizsamandarov.github.io/glass-card/index.html
